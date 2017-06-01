@@ -1,10 +1,10 @@
 # Database
 
-如何在Ubuntu下安裝SQL
+How to install SQL in Ubuntu
 http://blog.fens.me/linux-mysql-install/
 
-SQL語法教學
+Learn SQL
 http://www.1keydata.com/tw/sql/sql.html
 
-MySQL資料匯出&匯入
+MySQL data import/export
 http://www.codedata.com.tw/database/mysql-tutorial-19-outfile-dump-infile-import/
